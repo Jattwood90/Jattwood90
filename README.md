@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joe @Jattwood90
-- 👀 I’m interested in Python, Django, and React.
+- 👀 I’m interested in Python, DevOps, Django, and AWS.
 - 🌱 I’m currently learning the above, jujitsu and the bass guitar.
 - 📫 Check out my website devattwood.com or email me at joedevattwood@gmail.com.
 
